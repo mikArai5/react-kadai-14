@@ -40,3 +40,19 @@
 .read-the-docs {
   color: #888;
 }
+
+body {
+  background-color: #FFFFFF;
+  color: #343434;
+}
+
+.content {
+  width: 800px;
+  text-align: left;
+  margin: 0 auto;
+  place-items: flex-start;
+}
+
+.fontBold {
+  font-weight: bold;
+}
